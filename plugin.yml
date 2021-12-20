@@ -1,0 +1,14 @@
+---
+name: ItemID
+version: 1.0.0
+author: HasiyfGaming
+website: https://github.com/DerphSZ
+description: ItemID Plugin for PocketMine Server 1.16 - 1.17 Version
+main: hasiyfgaming\itemid\Main
+api: 3.0.0
+
+commands:
+    id:
+      description: "ItemID commands"
+      default: true
+...
