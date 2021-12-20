@@ -1,0 +1,17 @@
+ ###  #######  #######  #     #      ###  ######       #     #  #######  ######   ####### 
+  #      #     #        ##   ##       #   #     #      ##   ##  #     #  #     #  #       
+  #      #     #        # # # #       #   #     #      # # # #  #     #  #     #  #       
+  #      #     #####    #  #  #       #   #     #      #  #  #  #     #  #     #  #####   
+  #      #     #        #     #       #   #     #      #     #  #     #  #     #  #       
+  #      #     #        #     #       #   #     #      #     #  #     #  #     #  #       
+ ###     #     #######  #     #      ###  ######       #     #  #######  ######   ####### 
+                                                                                          
+
+# Ketika kamu sedang menggunakan command /id
+# When you are using the /id command
+enable-message: "§aID Mode has been activated succesfully!"
+disable-message: "§aID Mode has been disabled!"
+
+# Ketika kamu sedang mengaktifkan mode id
+# When you are activating id mode
+item-message: "<{id}:{damage}>"
